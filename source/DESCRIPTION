@@ -1,0 +1,12 @@
+Package: MUTSCOT
+Title: MutScot
+Version: 0.0.1
+Date: 2019-01-14
+Author: Bin Zhu, Ho-Hsiang Wu
+Description: The MutScot package.
+Maintainer: Bill Wheeler <wheelerb@imsweb.com>
+Imports: stats, utils, MASS, dndscv
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2019-01-15 15:22:30 UTC; wheelerwi
+Depends: R (>= 2.10)

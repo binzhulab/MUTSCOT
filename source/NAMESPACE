@@ -1,0 +1,6 @@
+import(stats)
+import(utils)
+import(MASS)
+import(dndscv)
+useDynLib(MUTSCOT)
+export(MutScot, MutScotPatientHeter, getBenchmarkGenes)
